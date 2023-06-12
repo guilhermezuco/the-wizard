@@ -101,7 +101,14 @@ h2 {
     font-size: 2.1em;
     color: #5a8cfa;
 }
+ .btn{
+    background-color: #326ff1;
+    color: #fff;
+ }
 
+ .btn:hover{
+    background-color: #450172;
+ }
 /* IMAGENS */
 
 #imagens h2 {
